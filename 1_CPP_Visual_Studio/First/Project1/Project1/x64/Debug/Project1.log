@@ -1,2 +1,3 @@
 ﻿  Project1.cpp
+D:\repos\Unreal5\1_CPP_Visual_Studio\First\Project1\Project1.cpp(27,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Project1.vcxproj -> D:\repos\Unreal5\1_CPP_Visual_Studio\First\Project1\x64\Debug\Project1.exe
